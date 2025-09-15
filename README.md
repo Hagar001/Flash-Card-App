@@ -43,8 +43,8 @@ flash-card-app/
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/flash-card-app.git
-   cd flash-card-app
+   git clone https://github.com/Hagar001/Flash-Card-App.git
+   cd Flash-Card-App
    
 2. Install required dependencies:
 
